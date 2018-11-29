@@ -1,0 +1,34 @@
+body {
+            
+            
+            background: url('http://www.horsecampsontario.com/wp-content/uploads/2017/09/Zodiac-Sign-Scorpio.jpg');
+            
+            background-size: cover;
+    
+        }
+        .mame {
+            color: purple;
+            font-family: 'Arvo', serif;
+            text-align: center;
+        }
+p {
+    color: grey;
+    font-size: 28px;
+    border: 5px solid grey;
+    text-align: center;
+}
+h3 {
+   color: lavender;
+}
+h2 {
+    color: white;
+}
+.mac {
+    border: 5px solid lavender;
+    
+    text-align: center;
+    font-size: 39px;
+}
+h1 {
+    color: white;
+}
